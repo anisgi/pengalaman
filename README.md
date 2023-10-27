@@ -12,3 +12,11 @@ Belajar tentang jenis-jenis event
 Event adalah suatu peristiwa contohnya buble
 
 ***untuk membuat buble perlu latihan***
+
+
+**27 Oktober 2023**<br>
+Belajar Kelas Dasar Manajemen Proyek (Progress 42%)
+* Belajar konsep project
+* Belajar tentang mengatur project
+* Berlatih membuat project
+* Mengerjakan ujian 
