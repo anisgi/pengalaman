@@ -5,6 +5,7 @@ pengalaman belajar di dicoding
 * Belajar tentang apa itu github
 * Belajar apa saja alat untuk melakukan commit/perubahan di github
 https://www.dicoding.com/academies/317/tutorials/17962?from=17957
+* Belajar kolaborasi
 * Belajar squashing
 * [Mencoba latihan squashing] (https://www.dicoding.com/academies/317/tutorials/18087?from=18082)
   
